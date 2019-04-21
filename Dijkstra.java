@@ -12,7 +12,7 @@ public class Dijkstra {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        //Default graph you can change int//
+        //Default graph you can change it//
 
         int graph[][] = {{0, 4, 0, 0, 0, 0, 0, 8, 0},
                 {4, 0, 8, 0, 0, 0, 0, 11, 0},
