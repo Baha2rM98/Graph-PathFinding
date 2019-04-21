@@ -1,3 +1,2 @@
 # Graph-PathFinding
-Java implementation
-A basic and undrestandble implementation for dijkstra algorithme 
+A basic and undrestandble java implementation for dijkstra algorithme 
